@@ -4,8 +4,12 @@ body{
 
 .img-wrapper{
 	display: inline-block;
-	width: 40%;
+	width: 50%;
 	padding-top: 30px;
+}
+
+.img-wrapper img {
+	padding:30px
 }
 
 h1{
@@ -16,42 +20,52 @@ h1{
 
 .key1{
 	width:125px;
+	background-color:#435274
 }
 
 .key2{
 	width:100px;
+	background-color:#435274
 }
 
 .key3{
 	width:90px;
+	background-color:#435274
 }
 
 .key4{
 	width:95px;
+	background-color:#435274
 }
 
 .key5{
 	width:120px;
+	background-color:#435274
 }
 
 .key6{
 	width:100px;
+	background-color:#435274
 }
 
 .key7{
 	width:100px;
+	background-color:#435274
 }
 
 .badge1{
-	width:110px;
+	width:150px;
+	background-color:#435274
 }
 
 .badge2{
-	width:110px;
+	width:150px;
+	background-color:#435274
 }
 
 .badge3{
-	height:110px;
+	height:150px;
+	background-color:#435274
 }
 
 .key1:hover{
@@ -93,3 +107,4 @@ h1{
 .badge3:hover{
 	box-shadow: 0px 0px 10px 6px;
 }
+
