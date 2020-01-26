@@ -1,0 +1,95 @@
+body{
+  background-color: #d8ebf6
+}
+
+.img-wrapper{
+	display: inline-block;
+	width: 40%;
+	padding-top: 30px;
+}
+
+h1{
+	font-family: arial;
+	color: #435274;
+
+}
+
+.key1{
+	width:125px;
+}
+
+.key2{
+	width:100px;
+}
+
+.key3{
+	width:90px;
+}
+
+.key4{
+	width:95px;
+}
+
+.key5{
+	width:120px;
+}
+
+.key6{
+	width:100px;
+}
+
+.key7{
+	width:100px;
+}
+
+.badge1{
+	width:110px;
+}
+
+.badge2{
+	width:110px;
+}
+
+.badge3{
+	height:110px;
+}
+
+.key1:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.key2:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.key3:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.key4:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.key5:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.key6:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.key7:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.badge1:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.badge2:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
+
+.badge3:hover{
+	box-shadow: 0px 0px 10px 6px;
+}
